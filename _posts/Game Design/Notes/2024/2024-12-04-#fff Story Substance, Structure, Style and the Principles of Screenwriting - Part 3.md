@@ -64,11 +64,11 @@ A character’s world can be imagined as a series of concentric circles surround
 
 THE THREE LEVELS OF CONFLICT:
 
-|Inner Conflicts|Personal Conflicts|Extra-personal Conflicts|
-|:---:|:---:|:---:|
-|Mind|Family|Individuals in society|
-|Body|Lovers|Physical environment|
-|Emotions|Friends|Social institutions|
+| Inner Conflicts | Personal Conflicts | Extra-personal Conflicts |
+| :-------------: | :----------------: | :----------------------: |
+|      Mind       |       Family       |  Individuals in society  |
+|      Body       |       Lovers       |   Physical environment   |
+|    Emotions     |      Friends       |   Social institutions    |
 
 ### THE GAP
 **STORY is born in that place where the subjective and objective realms touch.**
@@ -87,6 +87,7 @@ Once the gap in reality splits open, the character, being willful and having cap
 > Here’s a simple test to apply to any story. Ask: What is the risk? What does the protagonist stand to lose if he does not get what he wants? More specifically, what’s the worst thing that will happen to the protagonist if he does not achieve his desire?
 >
 > If this question cannot be answered in a compelling way, the story is misconceived at its core. For example, if the answer is: “Should the protagonist fail, life would go back to normal,” this story is not worth telling.
+
 
 ### THE GAP IN PROGRESSION
 
