@@ -1,13 +1,9 @@
 ---
 title: "#043 An Architectural Approach to Level Design - Chapter 4 - Basic Gamespaces"
-date: 2024-12-04 00:00:00 +0800
+date: 2025-10-07 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Game Level]
 ---
-
-> still constructing
-{: .prompt-warning }
-
 > Architecture is the thoughtful making of space. —LOUIS KAHN
 
 1. will look at some **simple spatial principles from architectural design.**
@@ -200,37 +196,143 @@ Gameplay standpoint: structured around collecting resources; offer freedom for p
 In many ways, hubs offer the best of both linear and open styles of gameplay.
 
 ## SANDBOX GAMESPACES
+Sandbox worlds are named for their ability to have defined boundaries while also allowing players to play however they want in less structured ways than many other games allow.
+
+- Single-player: whether to follow a story or simply wander
+- Multiplayer: battle royale
+
+Problems: user orientation & location awareness.
+
+This section is for urban design principles that can be used to build successful sandbox spaces.
 
 ### Pathfinding with Architectural Weenies
+Architectural weenie: landmarks used to attract players to goal points in games.
+
+> Allow these worlds to retain their openness but still direct players toward places that designers want them to go.
+
+> Half-Life 2: use building's color to guide players.
+
+Some games use weenies as high points so players can see large areas of the world from them.
+
+> The Legend of Zelda: Breath of the Wild
+> No Man’s Sky: valuable resources located on hilltops
+
+Multi-functions:
+- directing player action
+- helping players better navigate gamespaces
 
 ### Organizing the Sandbox: Kevin Lynch's Image of the City
+finding one’s way in a large open space
+
+The Image of the City: how people form mental maps of cities with these elements: landmarks, paths, nodes, districts, and boundaries.
 
 #### Landmarks
+Landmarks are recognizable elements that can be guideposts to people in an urban space. Same as weenies.
+
+Functions:
+1. call attention
+2. allow players to orient themselves by observing their relationship to the landmark in space
+3. track progress by measuring proximity to landmarks
+
+> Half-life 2: the final target - Citadel tower, is visible from most of levels, players can track their progress by observing how close they are to the structure.
 
 #### Paths
+Paths in urban design include roads, sidewalks, and other thoroughfares that allow people to travel through the city.
+
+Paths can have their own challenges, but are often intimately scaled spaces without significant aesthetic features.
+
+Functions: usher players through to the next point
+
+> The Elder Scrolls V: Skyrim: open landscapes. Paths are less direct, players can enact their own Steiner points. To mitigate the risk of getting lost, they use subtle geographic features such as dirt paths, signposts, rivers.
 
 #### Nodes
+The intersections of pathways offer a variety of opportunities for engaging users. They can be guide points for navigation, also places for people to gather or interact.
+
+Functions:
+1. locations for landmarks to reside, channeling different paths onto one end goal.
+2. strategic decision points: observers can decide what path to take next.
+
+> Open-world games: such decision nodes are everywhere, forcing players to prioritize how they wish to spend their time.
 
 #### Edges
+Edges are boundaries not formed by paths, they are linear elements that mark a transition from one continuous area or condition to the next.
+
+Areas of varying genius loci allow players to feel that the world has variety in the way that games with distinct level theme types.
+
+From a production standpoint, edges can mark a change in art style.
+- Quick transitions: the area you are entering is the site of an event, or if you are transitioning to the realm of a specific group.
+- Gradual transitions: help build anticipation for reaching a new zone, also indicate that you are reaching a natural border between environment types.
 
 #### Districts
+district, sections of a city where the observer enters “inside of” and which have some identifying character.
+
+Once past the edges, players find themselves within districts.
+
+Beyond changes in style, districts in games differentiate themselves from one another with changes in gameplay: types of NPCs, enemies, events, or mini-games.
+
+If sandbox worlds do not have distinct districts, or if districts do not have their own unique gameplay elements, sandbox worlds can feel empty. 
 
 ## WORKING WITH CAMERA VIEWS
+This section discusses how camera placement offers different limitations and opportunities for how gamespace is viewed.
 
 ### 3D Views
-
 #### First Person
+Level designers have full use of many of the architectural concepts. Designers must use the most architectural tricks to capture players’ attention, as the player has control over where the camera is looking.
+
+limitation:
+- platform jumping
+- melee combat
 
 #### Third Person
+1. The same spatial opportunities as first-person games - the ability to create full 3D environments where lines of sight and other visual tricks can be used to direct player attention.
+2. Camera’s sense of perspective - changing viewing angle options
+3. Fixed-perspective games: greatly increase the dramatic effect of certain scenes, though often come at the cost of ease of control of the player character.
+
+Additional opportunities
+- platform jumping: shadows
+- brawler-style melee combat
+
+Limitation:
+- aiming
 
 ### 2D Views
+Different from 3D: showing the player things that are beyond the eyesight of the player character.
+> Alfred Hitchcock's suspense in his films
 
 #### Side-Scrolling Space
+- some of the most spatially limiting level types, as there is not much one can design in the way of pathfinding.
+- location in a side-scrolling level can also be difficult to track, especially in large open-world 2D games.
+
+The simplicity of side scrollers makes them effective at teaching their own mechanics: put everything the player needs to know in a screenshot’s distance from his or her avatar.
+
+> “to the side” point of view
+
+Side-scrolling games have their own visual level metrics: enemies and enemy projectiles should always leave enough time from when they enter the screen to when they reach the player such that the player has a chance to see and avoid them.
+
+> Shantae: Risky's Revenge: move between layers - x, y axes, also z.
 
 #### Top-Down Space
+Share the potential for Hitchcock-style suspense.
 
 ### Axonometric / Isometric Views
+Character's relation to the environment around them.
 
 ## ENEMIES AS ALTERNATIVE ARCHITECTURE
+Enemies offer level designers a unique type of architectural ally in their antagonistic relationship with the player. Enemies block spaces by threatening to damage the player.
+
+> Half-life 2: alien soldiers at the beginning
+> Fallout: New Vegas: high level enemies as obstacles
+
+Functions:
+- direct player movement
+- make the scene populated - the role of architectural allies
+- paired with narrow spaces: forcing player to take risks to past or combat
+- swarm enemies to force player to run
 
 ## SUMMARY
+- From micro-scaled articulations of additive and subtractive space to world structures
+- How to cater gamespace to the kinds of gameplay experiences we wish them to house through spatial size types
+- Utilize molecule and proximity diagrams to pace these elements out or study how they interact with one another
+- Organize large worlds of gameplay through urban design principles
+- Cater player experiences of our gamespaces to the point of view they will have through in-game cameras
+- Use not only friendly NPCs, but also enemies to populate our game worlds, enhance the spatial types we have discussed, and direct player action

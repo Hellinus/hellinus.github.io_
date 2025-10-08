@@ -1,6 +1,6 @@
 ---
 title: "#fff Story Substance, Structure, Style and the Principles of Screenwriting - Part 3 The Principles of Story Design"
-date: 2024-12-04 00:00:00 +0800
+date: 2025-10-07 00:00:00 +0800
 categories: [Game Design, Notes]
 tags: [Writing]
 ---
@@ -87,7 +87,6 @@ Once the gap in reality splits open, the character, being willful and having cap
 > Here’s a simple test to apply to any story. Ask: What is the risk? What does the protagonist stand to lose if he does not get what he wants? More specifically, what’s the worst thing that will happen to the protagonist if he does not achieve his desire?
 >
 > If this question cannot be answered in a compelling way, the story is misconceived at its core. For example, if the answer is: “Should the protagonist fail, life would go back to normal,” this story is not worth telling.
-
 
 ### THE GAP IN PROGRESSION
 
