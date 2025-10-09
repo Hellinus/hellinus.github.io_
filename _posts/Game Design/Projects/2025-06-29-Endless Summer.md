@@ -7,7 +7,6 @@ tags: [Game Project]
 
 ## OVERVIEW
 <!-- ![Logo](/assets/img/GameDesign/Projects/a_decent_farewell/icon.jpg){: w="300"} -->
-<!-- *Logo* -->
 
 
 ### Gameplay Video
