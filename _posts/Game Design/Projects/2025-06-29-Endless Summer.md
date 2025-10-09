@@ -9,7 +9,18 @@ tags: [Game Project]
 <!-- ![Logo](/assets/img/GameDesign/Projects/a_decent_farewell/icon.jpg){: w="300"} -->
 <!-- *Logo* -->
 
-## CREDITS
 
+### Gameplay Video
+#### Youtube
+<!-- {% include embed/youtube.html id='j3V5v4YqG1E' %} -->
+
+#### Bilibili
+{% include embed/bilibili.html id='BV1p5gfz5ETj' %}
+
+## CREDITS
+- Scene / gameplay / script: 尘寰客
+- Programming / tech art / sound: Cyan Han (me)
+- Art: 春春
+- Resource / config: 废柴教父
 
 > If you have any questions please feel free to contact me<br>

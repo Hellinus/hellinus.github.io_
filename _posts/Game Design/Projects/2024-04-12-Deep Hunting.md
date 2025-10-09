@@ -12,7 +12,7 @@ tags: [Game Project]
 ![Logo](/assets/img/GameDesign/Projects/Deep%20Hunting/Deadman.png){: w="300"}
 *Logo*
 
-### Intro Video
+### Gameplay Video
 #### Youtube
 {% include embed/youtube.html id='lck1qWE8iUY' %}
 

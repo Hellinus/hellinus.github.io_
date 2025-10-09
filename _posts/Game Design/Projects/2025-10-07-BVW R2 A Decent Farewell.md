@@ -1,5 +1,5 @@
 ---
-title: "BVW R2: A Decent Farewell"
+title: "A Decent Farewell - BVW25 R2 Team18"
 date: 2025-10-07 00:00:00 +0800
 categories: [Game Design, Projects]
 tags: [Game Project]
@@ -12,6 +12,12 @@ tags: [Game Project]
 ![Poster](/assets/img/GameDesign/Projects/a_decent_farewell/poster.jpg){: w="300"}
 *Poster*
 
+### Gameplay Video
+#### Youtube
+{% include embed/youtube.html id='j3V5v4YqG1E' %}
+
+#### Bilibili
+<!-- {% include embed/bilibili.html id='BV1USaweFE1v' %} -->
 
 ## Self-reflection
 
