@@ -63,16 +63,46 @@ For designers:
 - **Constructivist methods**: structure challenges, feedback, and punishments in such a way that players are motivated to iterate their play to overcome or master gameplay challenges.
 
 ## SYMBOLS AND VISUAL DESIGN IN GAMES
+The pairing of visual art and procedural behaviors in game objects allows players to build strong associations between game objects and gameplay mechanics. These objects therefore become **symbols** of the gameplay mechanics they represent.
 
 ### Implementing Symbols in Games
+Prefabricated objects have consistent behavior and the player will eventually build a literacy of their havits as defined by their scripted behaviors.
+
+For environment art-intensive games, it is important to establish what portion of the scenery is a gameplay symbol and what is simply environment art.
+
+> L.A. Noire: uses gold color to distinguish interactive buildings from non-interactive buildings.
+
+Two rules when building environmental symbols in games:
+1. Each symbol must have a unique appearance, even from similar environment art objects.
+2. Each symbol must be repeated so the player learns what it means through repetition.
 
 ### Teaching with Symbols in Games
+The repeatability of prefabricated game objects used as gameplay symbols allows these objects to become enforcers of the previously studied teaching methods: operant conditioning, the Montessori Method, and constructivism.
 
 #### Introducing Symbols
+Super Mario Bros. and Super Meat Boy: introduce symbols in the form of actual game objects or level geometry arrangements by allowing players to interact with them through their avatar’s abilities.
+
+SWARM!: introducing an unconventional core mechanic to players: luring enemies into traps instead of fighting them directly. This mechanic was further used to unlock doors that would open when all enemies in an area were defeated.
+
+To teach the relationship between the player, enemies, and environmental puzzles:
+1. Introduced the enemies far from any traps to communicate that the player could not directly defeat them with the default character.
+2. Enemy spawn points were set up in an area surrounded by traps, so players could watch the enemies hit the traps and explode.
+3. The player was put in a situation where he or she could lead the enemies into the traps, which would open a door.
+
+> The three pieces were all located within one screenshot’s view of each other so players could easily see their relationship.
 
 #### Symbols as Guides
+Symbols are important tools not only for introducing mechanics early, but also for conveying the message of **what actions to take** throughout entire games.
+
+> Portal:
+> 1. There are caution signs at the beginning of the game’s test chamber puzzles that describe what hazards are inside. As players visit new rooms, see the symbols, then play the rooms themselves, they learn which symbols correspond to specific mechanics.
+>
+> 2. Another layer of symbol occurs within the level geometry itself, where specific layouts of wall panels and masses are arranged according to the metrics of specific actions. As such, a player who enters a room and sees signs that indicate inertia-based puzzles, and then encounters the deep pit, wide canyon, and tilted wall panels consistent with the game’s inertia puzzles will know what actions to take.
+
+As players learn what each symbol means, they will train themselves to search for them as indicators of what to do next in your game levels.
 
 ### Designing and Placing Symbols for Effective Communication
+Good principles of visual communication are vital not only for the aesthetic quality of each symbol, but also to make them stand out from other, non-symbolic pieces of environment art.
 
 #### Basic Color Theory
 
