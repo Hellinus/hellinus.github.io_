@@ -1,6 +1,6 @@
 ---
-title: "#044 An Architectural Approach to Level Design - Chapter 5 - Communicating through Environment Art"
-date: 2025-10-07 00:00:00 +0800
+title: "#fff An Architectural Approach to Level Design - Chapter 5 - Communicating through Environment Art"
+date: 2025-10-14 00:00:00 -0400
 categories: [Game Design, Notes]
 tags: [Game Level]
 ---
@@ -105,6 +105,19 @@ As players learn what each symbol means, they will train themselves to search fo
 Good principles of visual communication are vital not only for the aesthetic quality of each symbol, but also to make them stand out from other, non-symbolic pieces of environment art.
 
 #### Basic Color Theory
+Color is a vital tool for communicating with the player.
+
+> Reasons:
+> - the ways in which colors relate to one another
+> - the emotional or metaphorical associations colors carry
+
+Color models for understanding color.
+1. Hue, saturation, and brightness (HSB) model
+2. Additive color model and the subtractive model
+
+Additive color is based on primary colors of red, blue, and green.
+
+The subtractive model is based on two different sets of primary colors: red, yellow, and blue (RYB), or cyan, magenta, and yellow (CMY).
 
 #### Contrast
 
