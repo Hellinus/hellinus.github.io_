@@ -5,9 +5,6 @@ categories: [Game Design, Notes]
 tags: [Game Level]
 ---
 
-> still constructing
-{: .prompt-warning }
-
 Game levels utilize sensory information (visual and auditory) to connect with players.
 
 - Different teaching methods present in modern games

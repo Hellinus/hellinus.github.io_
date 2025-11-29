@@ -1,5 +1,5 @@
 ---
-title: "#046 Netease Game Dev Series: Project Management - 03 美术PM的计划制定和进度管理"
+title: "#047 Netease Game Dev Series: Project Management - 03 美术PM的计划制定和进度管理"
 date: 2025-10-15 00:00:00 -0400
 categories: [Game Design, Notes]
 tags: [Project Management]
