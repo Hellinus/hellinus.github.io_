@@ -1,6 +1,6 @@
 ---
 title: "#fff Story Substance, Structure, Style and the Principles of Screenwriting - Part 3 The Principles of Story Design"
-date: 2025-10-14 00:00:00 -0400
+date: 2025-11-29 00:00:00 -0400
 categories: [Game Design, Notes]
 tags: [Writing]
 ---
