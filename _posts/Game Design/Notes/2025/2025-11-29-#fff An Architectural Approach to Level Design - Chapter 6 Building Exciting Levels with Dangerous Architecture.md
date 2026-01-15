@@ -29,14 +29,29 @@ The house was the machine for living, the game level should be the machine for l
 5. Physiological: food, water, sleep, etc.
 
 ### "Bad Spaces": Vulnerability as a Game Mechanic
+- Architects should strive for pleasurable spaces through the contrast of safe and unsafe architectures that ultimately favor safety.
+- Level designers can be much more heavy-handed with utilization of dangerous elements.
+
+Enemies can be an important element levels and should be carefully planned as part of the experience of gamespaces.
+
+“Bad spaces” in games are ones we design to put players in specific and exhilarating danger. Creating contrasts of safe and dangerous spaces from scene to scene, or even within a single scene, is one way to create gameplay complexity and “juice” level design.
 
 #### Vulnerability as a Game Structure
+Vulnerability-based design:
+1. Players are confined to a small territory of a large map by powerful enemies or an environmental obstacle they cannot cross.
+2. As players explore this limited space, they can find enhancements that allow them to move outside the territory.
+3. Pattern repeats throughout a game.
 
 #### Vulnerability in Individual Game Challenges
+a way to implement risk–reward gameplay.
 
 ## PROSPECT AND REFUGE SPATIAL DESIGN
+Refuge: an intimately sized space that was shielded from view and from which humans could look out onto prospect spaces to evaluate threats. Constrast to prospect spaces.
+
+The ability to evaluate threats is important when discussing prospect and refuge spaces, as it is this relationship between refuges and prospects that allows us to create gamespaces with this concept.
 
 ### Creating Paths with Refuges, Prospects, and Secondary Refuges
+
 
 ### Prospects and Refuges in Architecture
 
