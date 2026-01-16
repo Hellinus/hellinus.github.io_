@@ -51,11 +51,45 @@ Refuge: an intimately sized space that was shielded from view and from which hum
 The ability to evaluate threats is important when discussing prospect and refuge spaces, as it is this relationship between refuges and prospects that allows us to create gamespaces with this concept.
 
 ### Creating Paths with Refuges, Prospects, and Secondary Refuges
+- Primary prospects: the prospect we are looking out onto from our refuge.
+- Primary refuges: the refuge we currently occupy.
+- Secondary prospects: prospects far away.
+- Secondary refuges: refuges in the distance.
 
+Placing refuges along the path can impact pacing.
+Example: cover to cover in fps, hiding spot to another in stealth game.
 
 ### Prospects and Refuges in Architecture
+Prospect and refuge spaces are used to create a sense of *public–private* contrast:
+- spaces for private actions are placed in enclosed refuges
+- public gathering or circulation spaces are larger prospect spaces
+
+Architectural refuge spaces are often on a different horizontal plane than prospect spaces:
+- higher to provide an advantageous view
+- lower to provide a cloistered hiding space
+
+Ceiling height: lower ceilings create the feeling of greater protection.
+
+> Prospect spaces are understood as uncomfortable for humans to linger in, and their uses are typically movement-based, while the uses of refuge spaces in buildings are typically static.
+
+Le Corbusier’s architecture: largely prospect dominant
+> His five points of architecture:
+> 1. Piloti: thin concrete columns that form the structure of a building, typically arranged in a grid.
+> 2. Free façade: since the façade is also non-structural, it can be designed freely without the need to have structural elements.
+> 3. Ribbon windows: long horizontal windows that let in large amounts of light and air.
+> 4. Open floor plan: unrestrained design of interior rooms since none of the walls are structural.
+> 5. Roof terrace: a flat roof that can be utilized by occupants.
+> 
+> [Villa Savoye](https://en.wikipedia.org/wiki/Villa_Savoye)
+
+Frank Lloyd Wright’s architecture: largely refuge-based
+> low, broad ceilings, natural materials, expansive views of the outside consistent with the Prairie School style of architecture.
+> surrounding by trees as a tendency toward concealment 
 
 ### Prospects and Refuges in Video Games
+
+
+
 
 ## SHADE, SHADOW, AND AMBIGUITY
 
